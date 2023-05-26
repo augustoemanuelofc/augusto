@@ -1,7 +1,7 @@
 # augusto
 Portfólio para documentar o processo de aprendizado na disciplina de programação web
 
-<title> formulário </title>
+<title. Formulário </title>
 
 Arquivo (a)
 <ul>
