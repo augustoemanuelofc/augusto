@@ -16,7 +16,7 @@ Tecnologia ultilizados:
    <li> JavaScript </li>
 </ul>
 
-Diculdades: fazer uma ativiadde, sem nenhum erro.
+Diculdades: fazer uma ativiadde, mas sem nenhum erro.
 
 
 
