@@ -1,13 +1,25 @@
 # augusto
 Portfólio para documentar o processo de aprendizado na disciplina de programação web
 
-<html> 
-  <head>
-    <title> Programação web </title>
-  </head>
-  
-  <body>
-    <h1> Função do html </h1>
-  </body>  
-  
-</html> 
+<title> formulário </title>
+
+Arquivo (a)
+<ul>
+  <li> CadastrarPagamento </li>
+</ul>
+
+Descrição: Página para cadastrar um pagamento com email
+
+Tecnologia ultilizados:
+
+<ul>
+   <li> JavaScript </li>
+</ul>
+
+Diculdades: fazer uma ativiadde, sem nenhum erro.
+
+
+
+
+
+
